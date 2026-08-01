@@ -44,10 +44,16 @@ This system uses Natural Language Processing (NLP) and semantic search to:
 
 > AI-powered resume screening system using NLP and semantic similarity. Automatically extracts skills, experience, and education from resumes, then ranks candidates against job positions.
 
+## DASHBOARD
+
 <img width="677" height="292" alt="Screenshot 2026-08-01 161526" src="https://github.com/user-attachments/assets/c37870f9-85bd-4ad2-9a16-ead643d7f047" />
+
+## ANALYTIC
 
 <img width="671" height="296" alt="Screenshot 2026-08-01 161550" src="https://github.com/user-attachments/assets/74f2fddc-9811-4def-a46c-ada515d9d31a" />
 
+
+## MATCH CANDIDATES
 <img width="665" height="259" alt="Screenshot 2026-08-01 161615" src="https://github.com/user-attachments/assets/7fa0062e-5e12-41e5-8efb-acd5b79f3de4" />
 
 
