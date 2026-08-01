@@ -1,0 +1,21 @@
+2026-08-01T12:02:39.026358+0500 | ERROR | app.main:get_dataset_info:185 | Error getting dataset info: 'job_position_name'
+2026-08-01T12:02:48.657236+0500 | ERROR | app.main:get_job_positions:289 | Error getting job positions: 'job_position_name'
+2026-08-01T12:05:45.721133+0500 | ERROR | app.main:match_candidates:233 | Error matching candidates: 'job_position_name'
+2026-08-01T12:05:54.531944+0500 | ERROR | app.main:match_candidates:233 | Error matching candidates: 'job_position_name'
+2026-08-01T12:07:26.202650+0500 | ERROR | app.main:get_dataset_info:185 | Error getting dataset info: 'job_position_name'
+2026-08-01T12:07:30.523209+0500 | ERROR | app.main:get_dataset_info:185 | Error getting dataset info: 'job_position_name'
+2026-08-01T12:07:34.762647+0500 | ERROR | app.main:get_job_positions:289 | Error getting job positions: 'job_position_name'
+2026-08-01T12:07:38.464743+0500 | ERROR | app.main:get_job_positions:289 | Error getting job positions: 'job_position_name'
+2026-08-01T12:07:44.580670+0500 | ERROR | app.main:match_candidates:233 | Error matching candidates: 'job_position_name'
+2026-08-01T12:16:18.050287+0500 | ERROR | app.main:get_dataset_info:185 | Error getting dataset info: 'job_position_name'
+2026-08-01T12:16:24.149742+0500 | ERROR | app.main:get_job_positions:289 | Error getting job positions: 'job_position_name'
+2026-08-01T12:16:30.804904+0500 | ERROR | app.main:match_candidates:233 | Error matching candidates: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2026-08-01T12:23:37.970196+0500 | ERROR | app.main:get_dataset_info:185 | Error getting dataset info: 'job_position_name'
+2026-08-01T12:23:41.652071+0500 | ERROR | app.main:get_job_positions:289 | Error getting job positions: 'job_position_name'
+2026-08-01T12:23:45.392442+0500 | ERROR | app.main:match_candidates:233 | Error matching candidates: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2026-08-01T12:30:40.546222+0500 | ERROR | app.main:get_dataset_info:185 | Error getting dataset info: 'job_position_name'
+2026-08-01T12:30:43.217119+0500 | ERROR | app.main:get_job_positions:289 | Error getting job positions: 'job_position_name'
+2026-08-01T12:30:45.925459+0500 | ERROR | app.main:match_candidates:233 | Error matching candidates: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2026-08-01T12:33:58.596377+0500 | ERROR | app.main:get_dataset_info:185 | Error getting dataset info: 'job_position_name'
+2026-08-01T12:34:01.263757+0500 | ERROR | app.main:get_job_positions:289 | Error getting job positions: 'job_position_name'
+2026-08-01T12:34:04.301470+0500 | ERROR | app.main:match_candidates:233 | Error matching candidates: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()

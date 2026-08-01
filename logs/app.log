@@ -1,0 +1,299 @@
+2026-08-01T11:39:44.514538+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T11:39:44.516469+0500 | INFO | app.main:startup_event:78 | Starting Resume Screener in development mode
+2026-08-01T11:39:44.516469+0500 | INFO | app.main:startup_event:79 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T11:39:44.518484+0500 | INFO | app.main:startup_event:85 | Ollama disabled, using rule-based extraction
+2026-08-01T11:42:01.827075+0500 | INFO | app.main:shutdown_event:91 | Shutting down Resume Screener
+2026-08-01T11:42:06.719496+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T11:42:06.719496+0500 | INFO | app.main:startup_event:78 | Starting Resume Screener in development mode
+2026-08-01T11:42:06.719496+0500 | INFO | app.main:startup_event:79 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T11:42:06.719496+0500 | INFO | app.main:startup_event:85 | Ollama disabled, using rule-based extraction
+2026-08-01T11:43:08.755752+0500 | INFO | app.main:shutdown_event:91 | Shutting down Resume Screener
+2026-08-01T11:43:09.792753+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T11:43:10.160582+0500 | INFO | app.main:startup_event:184 | Starting Resume Screener in development mode
+2026-08-01T11:43:10.160582+0500 | INFO | app.main:startup_event:185 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T11:43:10.160582+0500 | INFO | app.main:startup_event:191 | Ollama disabled, using rule-based extraction
+2026-08-01T11:43:20.478327+0500 | INFO | app.main:shutdown_event:198 | Shutting down Resume Screener
+2026-08-01T11:43:25.252854+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T11:43:25.550544+0500 | INFO | app.main:startup_event:184 | Starting Resume Screener in development mode
+2026-08-01T11:43:25.550544+0500 | INFO | app.main:startup_event:185 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T11:43:25.550544+0500 | INFO | app.main:startup_event:191 | Ollama disabled, using rule-based extraction
+2026-08-01T11:46:42.104894+0500 | INFO | app.main:upload_pdf:100 | Processing PDF: updated cv.pdf (39589 bytes)
+2026-08-01T11:46:42.104894+0500 | INFO | app.services.pdf_extractor:extract:83 | Extracting text from C:\Users\USMANA~1\AppData\Local\Temp\tmpk67xfr9i.pdf
+2026-08-01T11:46:42.523262+0500 | INFO | app.services.pdf_extractor:extract:92 | Successfully extracted with pdfplumber
+2026-08-01T11:54:34.178793+0500 | INFO | app.main:shutdown_event:198 | Shutting down Resume Screener
+2026-08-01T11:54:35.532431+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T11:54:35.901983+0500 | INFO | app.main:startup_event:184 | Starting Resume Screener in development mode
+2026-08-01T11:54:35.901983+0500 | INFO | app.main:startup_event:185 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T11:54:35.901983+0500 | INFO | app.main:startup_event:191 | Ollama disabled, using rule-based extraction
+2026-08-01T11:54:41.969994+0500 | INFO | app.main:shutdown_event:198 | Shutting down Resume Screener
+2026-08-01T11:54:43.030745+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T11:54:43.388345+0500 | INFO | app.main:startup_event:184 | Starting Resume Screener in development mode
+2026-08-01T11:54:43.388345+0500 | INFO | app.main:startup_event:185 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T11:54:43.389346+0500 | INFO | app.main:startup_event:191 | Ollama disabled, using rule-based extraction
+2026-08-01T11:55:18.220196+0500 | INFO | app.main:shutdown_event:198 | Shutting down Resume Screener
+2026-08-01T12:00:42.461336+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:00:57.285196+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:01:01.731422+0500 | INFO | app.services.enhanced_processor:__init__:30 | ✅ Embedding model loaded
+2026-08-01T12:01:01.755155+0500 | INFO | app.main:startup_event:313 | Starting Resume Screener in development mode
+2026-08-01T12:01:01.755155+0500 | INFO | app.main:startup_event:314 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:01:01.755155+0500 | INFO | app.main:startup_event:319 | Ollama disabled, using rule-based extraction
+2026-08-01T12:01:03.510483+0500 | INFO | app.services.enhanced_processor:load_data:53 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:01:03.510483+0500 | INFO | app.main:startup_event:324 | ✅ Loaded 9544 resumes
+2026-08-01T12:01:03.615264+0500 | INFO | app.main:shutdown_event:332 | Shutting down Resume Screener
+2026-08-01T12:01:05.236021+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:01:12.409835+0500 | INFO | app.services.enhanced_processor:__init__:30 | ✅ Embedding model loaded
+2026-08-01T12:01:12.444942+0500 | INFO | app.main:startup_event:313 | Starting Resume Screener in development mode
+2026-08-01T12:01:12.444942+0500 | INFO | app.main:startup_event:314 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:01:12.444942+0500 | INFO | app.main:startup_event:319 | Ollama disabled, using rule-based extraction
+2026-08-01T12:01:14.150213+0500 | INFO | app.services.enhanced_processor:load_data:53 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:01:14.150213+0500 | INFO | app.main:startup_event:324 | ✅ Loaded 9544 resumes
+2026-08-01T12:01:21.077299+0500 | INFO | app.services.enhanced_processor:__init__:30 | ✅ Embedding model loaded
+2026-08-01T12:01:21.157705+0500 | INFO | app.main:startup_event:313 | Starting Resume Screener in development mode
+2026-08-01T12:01:21.157705+0500 | INFO | app.main:startup_event:314 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:01:21.157705+0500 | INFO | app.main:startup_event:319 | Ollama disabled, using rule-based extraction
+2026-08-01T12:01:23.770178+0500 | INFO | app.services.enhanced_processor:load_data:53 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:01:23.770178+0500 | INFO | app.main:startup_event:324 | ✅ Loaded 9544 resumes
+2026-08-01T12:02:39.026358+0500 | INFO | app.services.enhanced_processor:load_data:53 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:02:39.026358+0500 | ERROR | app.main:get_dataset_info:185 | Error getting dataset info: 'job_position_name'
+2026-08-01T12:02:48.656236+0500 | INFO | app.services.enhanced_processor:load_data:53 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:02:48.657236+0500 | ERROR | app.main:get_job_positions:289 | Error getting job positions: 'job_position_name'
+2026-08-01T12:05:45.721133+0500 | INFO | app.services.enhanced_processor:load_data:53 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:05:45.721133+0500 | ERROR | app.main:match_candidates:233 | Error matching candidates: 'job_position_name'
+2026-08-01T12:05:54.525394+0500 | INFO | app.services.enhanced_processor:load_data:53 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:05:54.531944+0500 | ERROR | app.main:match_candidates:233 | Error matching candidates: 'job_position_name'
+2026-08-01T12:06:29.775314+0500 | INFO | app.main:shutdown_event:332 | Shutting down Resume Screener
+2026-08-01T12:06:32.928990+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:06:52.392009+0500 | INFO | app.services.enhanced_processor:__init__:30 | ✅ Embedding model loaded
+2026-08-01T12:06:52.436402+0500 | INFO | app.main:startup_event:313 | Starting Resume Screener in development mode
+2026-08-01T12:06:52.436402+0500 | INFO | app.main:startup_event:314 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:06:52.436402+0500 | INFO | app.main:startup_event:319 | Ollama disabled, using rule-based extraction
+2026-08-01T12:06:54.138036+0500 | INFO | app.services.enhanced_processor:load_data:53 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:06:54.138036+0500 | INFO | app.main:startup_event:324 | ✅ Loaded 9544 resumes
+2026-08-01T12:06:54.243551+0500 | INFO | app.main:shutdown_event:332 | Shutting down Resume Screener
+2026-08-01T12:06:56.214539+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:07:18.086925+0500 | INFO | app.services.enhanced_processor:__init__:30 | ✅ Embedding model loaded
+2026-08-01T12:07:18.246789+0500 | INFO | app.main:startup_event:313 | Starting Resume Screener in development mode
+2026-08-01T12:07:18.246789+0500 | INFO | app.main:startup_event:314 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:07:18.246789+0500 | INFO | app.main:startup_event:319 | Ollama disabled, using rule-based extraction
+2026-08-01T12:07:22.258478+0500 | INFO | app.services.enhanced_processor:load_data:53 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:07:22.258478+0500 | INFO | app.main:startup_event:324 | ✅ Loaded 9544 resumes
+2026-08-01T12:07:26.201129+0500 | INFO | app.services.enhanced_processor:load_data:53 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:07:26.202650+0500 | ERROR | app.main:get_dataset_info:185 | Error getting dataset info: 'job_position_name'
+2026-08-01T12:07:30.523209+0500 | INFO | app.services.enhanced_processor:load_data:53 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:07:30.523209+0500 | ERROR | app.main:get_dataset_info:185 | Error getting dataset info: 'job_position_name'
+2026-08-01T12:07:34.752950+0500 | INFO | app.services.enhanced_processor:load_data:53 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:07:34.762647+0500 | ERROR | app.main:get_job_positions:289 | Error getting job positions: 'job_position_name'
+2026-08-01T12:07:38.464743+0500 | INFO | app.services.enhanced_processor:load_data:53 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:07:38.464743+0500 | ERROR | app.main:get_job_positions:289 | Error getting job positions: 'job_position_name'
+2026-08-01T12:07:44.572581+0500 | INFO | app.services.enhanced_processor:load_data:53 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:07:44.580670+0500 | ERROR | app.main:match_candidates:233 | Error matching candidates: 'job_position_name'
+2026-08-01T12:14:35.266570+0500 | INFO | app.main:shutdown_event:332 | Shutting down Resume Screener
+2026-08-01T12:14:38.224234+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:15:00.879654+0500 | INFO | app.services.enhanced_processor:__init__:33 | ✅ Embedding model loaded
+2026-08-01T12:15:00.959941+0500 | INFO | app.main:startup_event:313 | Starting Resume Screener in development mode
+2026-08-01T12:15:00.959941+0500 | INFO | app.main:startup_event:314 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:15:00.961953+0500 | INFO | app.main:startup_event:319 | Ollama disabled, using rule-based extraction
+2026-08-01T12:15:01.266582+0500 | INFO | app.services.enhanced_processor:load_data:47 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:15:01.267604+0500 | INFO | app.services.enhanced_processor:load_data:48 | 📋 Columns: ['address', 'career_objective', 'skills', 'educational_institution_name', 'degree_names', 'passing_years', 'educational_results', 'result_types', 'major_field_of_studies', 'professional_company_names', 'company_urls', 'start_dates', 'end_dates', 'related_skils_in_job', 'positions', 'locations', 'responsibilities', 'extra_curricular_activity_types', 'extra_curricular_organization_names', 'extra_curricular_organization_links', 'role_positions', 'languages', 'proficiency_levels', 'certification_providers', 'certification_skills', 'online_links', 'issue_dates', 'expiry_dates', '\ufeffjob_position_name', 'educationaL_requirements', 'experiencere_requirement', 'age_requirement', 'responsibilities.1', 'skills_required', 'matched_score']
+2026-08-01T12:15:01.267604+0500 | INFO | app.services.enhanced_processor:_detect_column_mappings:77 | 📋 Clean columns: ['address', 'career_objective', 'skills', 'educational_institution_name', 'degree_names', 'passing_years', 'educational_results', 'result_types', 'major_field_of_studies', 'professional_company_names', 'company_urls', 'start_dates', 'end_dates', 'related_skils_in_job', 'positions', 'locations', 'responsibilities', 'extra_curricular_activity_types', 'extra_curricular_organization_names', 'extra_curricular_organization_links', 'role_positions', 'languages', 'proficiency_levels', 'certification_providers', 'certification_skills', 'online_links', 'issue_dates', 'expiry_dates', '\ufeffjob_position_name', 'educationaL_requirements', 'experiencere_requirement', 'age_requirement', 'responsibilities.1', 'skills_required', 'matched_score']
+2026-08-01T12:15:01.268926+0500 | INFO | app.services.enhanced_processor:_detect_column_mappings:135 | ✅ Column mappings: {'job_position': '\ufeffjob_position_name', 'skills_required': 'skills_required', 'education_requirements': 'educationaL_requirements', 'experience_requirements': 'experiencere_requirement', 'responsibilities': 'responsibilities', 'matched_score': 'matched_score', 'candidate_skills': 'skills'}
+2026-08-01T12:15:02.868053+0500 | INFO | app.services.enhanced_processor:load_data:66 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:15:02.868053+0500 | INFO | app.services.enhanced_processor:load_data:67 | 🔗 Mappings: {'job_position': '\ufeffjob_position_name', 'skills_required': 'skills_required', 'education_requirements': 'educationaL_requirements', 'experience_requirements': 'experiencere_requirement', 'responsibilities': 'responsibilities', 'matched_score': 'matched_score', 'candidate_skills': 'skills'}
+2026-08-01T12:15:02.868053+0500 | INFO | app.main:startup_event:324 | ✅ Loaded 9544 resumes
+2026-08-01T12:15:02.975558+0500 | INFO | app.main:shutdown_event:332 | Shutting down Resume Screener
+2026-08-01T12:15:09.228404+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:15:25.985392+0500 | INFO | app.services.enhanced_processor:__init__:33 | ✅ Embedding model loaded
+2026-08-01T12:15:26.035036+0500 | INFO | app.main:startup_event:313 | Starting Resume Screener in development mode
+2026-08-01T12:15:26.035036+0500 | INFO | app.main:startup_event:314 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:15:26.035036+0500 | INFO | app.main:startup_event:319 | Ollama disabled, using rule-based extraction
+2026-08-01T12:15:26.247466+0500 | INFO | app.services.enhanced_processor:load_data:47 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:15:26.247466+0500 | INFO | app.services.enhanced_processor:load_data:48 | 📋 Columns: ['address', 'career_objective', 'skills', 'educational_institution_name', 'degree_names', 'passing_years', 'educational_results', 'result_types', 'major_field_of_studies', 'professional_company_names', 'company_urls', 'start_dates', 'end_dates', 'related_skils_in_job', 'positions', 'locations', 'responsibilities', 'extra_curricular_activity_types', 'extra_curricular_organization_names', 'extra_curricular_organization_links', 'role_positions', 'languages', 'proficiency_levels', 'certification_providers', 'certification_skills', 'online_links', 'issue_dates', 'expiry_dates', '\ufeffjob_position_name', 'educationaL_requirements', 'experiencere_requirement', 'age_requirement', 'responsibilities.1', 'skills_required', 'matched_score']
+2026-08-01T12:15:26.247466+0500 | INFO | app.services.enhanced_processor:_detect_column_mappings:77 | 📋 Clean columns: ['address', 'career_objective', 'skills', 'educational_institution_name', 'degree_names', 'passing_years', 'educational_results', 'result_types', 'major_field_of_studies', 'professional_company_names', 'company_urls', 'start_dates', 'end_dates', 'related_skils_in_job', 'positions', 'locations', 'responsibilities', 'extra_curricular_activity_types', 'extra_curricular_organization_names', 'extra_curricular_organization_links', 'role_positions', 'languages', 'proficiency_levels', 'certification_providers', 'certification_skills', 'online_links', 'issue_dates', 'expiry_dates', '\ufeffjob_position_name', 'educationaL_requirements', 'experiencere_requirement', 'age_requirement', 'responsibilities.1', 'skills_required', 'matched_score']
+2026-08-01T12:15:26.247466+0500 | INFO | app.services.enhanced_processor:_detect_column_mappings:135 | ✅ Column mappings: {'job_position': '\ufeffjob_position_name', 'skills_required': 'skills_required', 'education_requirements': 'educationaL_requirements', 'experience_requirements': 'experiencere_requirement', 'responsibilities': 'responsibilities', 'matched_score': 'matched_score', 'candidate_skills': 'skills'}
+2026-08-01T12:15:27.724557+0500 | INFO | app.services.enhanced_processor:load_data:66 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:15:27.724557+0500 | INFO | app.services.enhanced_processor:load_data:67 | 🔗 Mappings: {'job_position': '\ufeffjob_position_name', 'skills_required': 'skills_required', 'education_requirements': 'educationaL_requirements', 'experience_requirements': 'experiencere_requirement', 'responsibilities': 'responsibilities', 'matched_score': 'matched_score', 'candidate_skills': 'skills'}
+2026-08-01T12:15:27.724557+0500 | INFO | app.main:startup_event:324 | ✅ Loaded 9544 resumes
+2026-08-01T12:16:14.515847+0500 | INFO | app.services.enhanced_processor:load_data:47 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:16:14.517301+0500 | INFO | app.services.enhanced_processor:load_data:48 | 📋 Columns: ['address', 'career_objective', 'skills', 'educational_institution_name', 'degree_names', 'passing_years', 'educational_results', 'result_types', 'major_field_of_studies', 'professional_company_names', 'company_urls', 'start_dates', 'end_dates', 'related_skils_in_job', 'positions', 'locations', 'responsibilities', 'extra_curricular_activity_types', 'extra_curricular_organization_names', 'extra_curricular_organization_links', 'role_positions', 'languages', 'proficiency_levels', 'certification_providers', 'certification_skills', 'online_links', 'issue_dates', 'expiry_dates', '\ufeffjob_position_name', 'educationaL_requirements', 'experiencere_requirement', 'age_requirement', 'responsibilities.1', 'skills_required', 'matched_score']
+2026-08-01T12:16:14.518541+0500 | INFO | app.services.enhanced_processor:_detect_column_mappings:77 | 📋 Clean columns: ['address', 'career_objective', 'skills', 'educational_institution_name', 'degree_names', 'passing_years', 'educational_results', 'result_types', 'major_field_of_studies', 'professional_company_names', 'company_urls', 'start_dates', 'end_dates', 'related_skils_in_job', 'positions', 'locations', 'responsibilities', 'extra_curricular_activity_types', 'extra_curricular_organization_names', 'extra_curricular_organization_links', 'role_positions', 'languages', 'proficiency_levels', 'certification_providers', 'certification_skills', 'online_links', 'issue_dates', 'expiry_dates', '\ufeffjob_position_name', 'educationaL_requirements', 'experiencere_requirement', 'age_requirement', 'responsibilities.1', 'skills_required', 'matched_score']
+2026-08-01T12:16:14.518541+0500 | INFO | app.services.enhanced_processor:_detect_column_mappings:135 | ✅ Column mappings: {'job_position': '\ufeffjob_position_name', 'skills_required': 'skills_required', 'education_requirements': 'educationaL_requirements', 'experience_requirements': 'experiencere_requirement', 'responsibilities': 'responsibilities', 'matched_score': 'matched_score', 'candidate_skills': 'skills'}
+2026-08-01T12:16:18.047679+0500 | INFO | app.services.enhanced_processor:load_data:66 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:16:18.047679+0500 | INFO | app.services.enhanced_processor:load_data:67 | 🔗 Mappings: {'job_position': '\ufeffjob_position_name', 'skills_required': 'skills_required', 'education_requirements': 'educationaL_requirements', 'experience_requirements': 'experiencere_requirement', 'responsibilities': 'responsibilities', 'matched_score': 'matched_score', 'candidate_skills': 'skills'}
+2026-08-01T12:16:18.050287+0500 | ERROR | app.main:get_dataset_info:185 | Error getting dataset info: 'job_position_name'
+2026-08-01T12:16:20.625337+0500 | INFO | app.services.enhanced_processor:load_data:47 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:16:20.625337+0500 | INFO | app.services.enhanced_processor:load_data:48 | 📋 Columns: ['address', 'career_objective', 'skills', 'educational_institution_name', 'degree_names', 'passing_years', 'educational_results', 'result_types', 'major_field_of_studies', 'professional_company_names', 'company_urls', 'start_dates', 'end_dates', 'related_skils_in_job', 'positions', 'locations', 'responsibilities', 'extra_curricular_activity_types', 'extra_curricular_organization_names', 'extra_curricular_organization_links', 'role_positions', 'languages', 'proficiency_levels', 'certification_providers', 'certification_skills', 'online_links', 'issue_dates', 'expiry_dates', '\ufeffjob_position_name', 'educationaL_requirements', 'experiencere_requirement', 'age_requirement', 'responsibilities.1', 'skills_required', 'matched_score']
+2026-08-01T12:16:20.625337+0500 | INFO | app.services.enhanced_processor:_detect_column_mappings:77 | 📋 Clean columns: ['address', 'career_objective', 'skills', 'educational_institution_name', 'degree_names', 'passing_years', 'educational_results', 'result_types', 'major_field_of_studies', 'professional_company_names', 'company_urls', 'start_dates', 'end_dates', 'related_skils_in_job', 'positions', 'locations', 'responsibilities', 'extra_curricular_activity_types', 'extra_curricular_organization_names', 'extra_curricular_organization_links', 'role_positions', 'languages', 'proficiency_levels', 'certification_providers', 'certification_skills', 'online_links', 'issue_dates', 'expiry_dates', '\ufeffjob_position_name', 'educationaL_requirements', 'experiencere_requirement', 'age_requirement', 'responsibilities.1', 'skills_required', 'matched_score']
+2026-08-01T12:16:20.627580+0500 | INFO | app.services.enhanced_processor:_detect_column_mappings:135 | ✅ Column mappings: {'job_position': '\ufeffjob_position_name', 'skills_required': 'skills_required', 'education_requirements': 'educationaL_requirements', 'experience_requirements': 'experiencere_requirement', 'responsibilities': 'responsibilities', 'matched_score': 'matched_score', 'candidate_skills': 'skills'}
+2026-08-01T12:16:24.149742+0500 | INFO | app.services.enhanced_processor:load_data:66 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:16:24.149742+0500 | INFO | app.services.enhanced_processor:load_data:67 | 🔗 Mappings: {'job_position': '\ufeffjob_position_name', 'skills_required': 'skills_required', 'education_requirements': 'educationaL_requirements', 'experience_requirements': 'experiencere_requirement', 'responsibilities': 'responsibilities', 'matched_score': 'matched_score', 'candidate_skills': 'skills'}
+2026-08-01T12:16:24.149742+0500 | ERROR | app.main:get_job_positions:289 | Error getting job positions: 'job_position_name'
+2026-08-01T12:16:26.826984+0500 | INFO | app.services.enhanced_processor:load_data:47 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:16:26.826984+0500 | INFO | app.services.enhanced_processor:load_data:48 | 📋 Columns: ['address', 'career_objective', 'skills', 'educational_institution_name', 'degree_names', 'passing_years', 'educational_results', 'result_types', 'major_field_of_studies', 'professional_company_names', 'company_urls', 'start_dates', 'end_dates', 'related_skils_in_job', 'positions', 'locations', 'responsibilities', 'extra_curricular_activity_types', 'extra_curricular_organization_names', 'extra_curricular_organization_links', 'role_positions', 'languages', 'proficiency_levels', 'certification_providers', 'certification_skills', 'online_links', 'issue_dates', 'expiry_dates', '\ufeffjob_position_name', 'educationaL_requirements', 'experiencere_requirement', 'age_requirement', 'responsibilities.1', 'skills_required', 'matched_score']
+2026-08-01T12:16:26.826984+0500 | INFO | app.services.enhanced_processor:_detect_column_mappings:77 | 📋 Clean columns: ['address', 'career_objective', 'skills', 'educational_institution_name', 'degree_names', 'passing_years', 'educational_results', 'result_types', 'major_field_of_studies', 'professional_company_names', 'company_urls', 'start_dates', 'end_dates', 'related_skils_in_job', 'positions', 'locations', 'responsibilities', 'extra_curricular_activity_types', 'extra_curricular_organization_names', 'extra_curricular_organization_links', 'role_positions', 'languages', 'proficiency_levels', 'certification_providers', 'certification_skills', 'online_links', 'issue_dates', 'expiry_dates', '\ufeffjob_position_name', 'educationaL_requirements', 'experiencere_requirement', 'age_requirement', 'responsibilities.1', 'skills_required', 'matched_score']
+2026-08-01T12:16:26.834125+0500 | INFO | app.services.enhanced_processor:_detect_column_mappings:135 | ✅ Column mappings: {'job_position': '\ufeffjob_position_name', 'skills_required': 'skills_required', 'education_requirements': 'educationaL_requirements', 'experience_requirements': 'experiencere_requirement', 'responsibilities': 'responsibilities', 'matched_score': 'matched_score', 'candidate_skills': 'skills'}
+2026-08-01T12:16:30.704678+0500 | INFO | app.services.enhanced_processor:load_data:66 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:16:30.704678+0500 | INFO | app.services.enhanced_processor:load_data:67 | 🔗 Mappings: {'job_position': '\ufeffjob_position_name', 'skills_required': 'skills_required', 'education_requirements': 'educationaL_requirements', 'experience_requirements': 'experiencere_requirement', 'responsibilities': 'responsibilities', 'matched_score': 'matched_score', 'candidate_skills': 'skills'}
+2026-08-01T12:16:30.804904+0500 | ERROR | app.main:match_candidates:233 | Error matching candidates: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2026-08-01T12:18:02.141618+0500 | INFO | app.main:shutdown_event:332 | Shutting down Resume Screener
+2026-08-01T12:18:04.561080+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:18:16.852642+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:18:35.567789+0500 | INFO | app.services.enhanced_processor:__init__:33 | ✅ Embedding model loaded
+2026-08-01T12:18:35.636297+0500 | INFO | app.main:startup_event:313 | Starting Resume Screener in development mode
+2026-08-01T12:18:35.636297+0500 | INFO | app.main:startup_event:314 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:18:35.636297+0500 | INFO | app.main:startup_event:319 | Ollama disabled, using rule-based extraction
+2026-08-01T12:18:35.941075+0500 | INFO | app.services.enhanced_processor:load_data:47 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:18:35.941075+0500 | INFO | app.services.enhanced_processor:load_data:48 | 📋 Columns: ['address', 'career_objective', 'skills', 'educational_institution_name', 'degree_names', 'passing_years', 'educational_results', 'result_types', 'major_field_of_studies', 'professional_company_names', 'company_urls', 'start_dates', 'end_dates', 'related_skils_in_job', 'positions', 'locations', 'responsibilities', 'extra_curricular_activity_types', 'extra_curricular_organization_names', 'extra_curricular_organization_links', 'role_positions', 'languages', 'proficiency_levels', 'certification_providers', 'certification_skills', 'online_links', 'issue_dates', 'expiry_dates', '\ufeffjob_position_name', 'educationaL_requirements', 'experiencere_requirement', 'age_requirement', 'responsibilities.1', 'skills_required', 'matched_score']
+2026-08-01T12:18:35.943083+0500 | INFO | app.services.enhanced_processor:_detect_column_mappings:77 | 📋 Clean columns: ['address', 'career_objective', 'skills', 'educational_institution_name', 'degree_names', 'passing_years', 'educational_results', 'result_types', 'major_field_of_studies', 'professional_company_names', 'company_urls', 'start_dates', 'end_dates', 'related_skils_in_job', 'positions', 'locations', 'responsibilities', 'extra_curricular_activity_types', 'extra_curricular_organization_names', 'extra_curricular_organization_links', 'role_positions', 'languages', 'proficiency_levels', 'certification_providers', 'certification_skills', 'online_links', 'issue_dates', 'expiry_dates', '\ufeffjob_position_name', 'educationaL_requirements', 'experiencere_requirement', 'age_requirement', 'responsibilities.1', 'skills_required', 'matched_score']
+2026-08-01T12:18:35.943083+0500 | INFO | app.services.enhanced_processor:_detect_column_mappings:135 | ✅ Column mappings: {'job_position': '\ufeffjob_position_name', 'skills_required': 'skills_required', 'education_requirements': 'educationaL_requirements', 'experience_requirements': 'experiencere_requirement', 'responsibilities': 'responsibilities', 'matched_score': 'matched_score', 'candidate_skills': 'skills'}
+2026-08-01T12:18:37.819129+0500 | INFO | app.services.enhanced_processor:load_data:66 | ✅ Loaded 9544 structured resumes
+2026-08-01T12:18:37.819129+0500 | INFO | app.services.enhanced_processor:load_data:67 | 🔗 Mappings: {'job_position': '\ufeffjob_position_name', 'skills_required': 'skills_required', 'education_requirements': 'educationaL_requirements', 'experience_requirements': 'experiencere_requirement', 'responsibilities': 'responsibilities', 'matched_score': 'matched_score', 'candidate_skills': 'skills'}
+2026-08-01T12:18:37.820459+0500 | INFO | app.main:startup_event:324 | ✅ Loaded 9544 resumes
+2026-08-01T12:18:37.923648+0500 | INFO | app.main:shutdown_event:332 | Shutting down Resume Screener
+2026-08-01T12:18:40.079033+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:20:59.149599+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:21:25.031106+0500 | INFO | app.main:startup_event:313 | Starting Resume Screener in development mode
+2026-08-01T12:21:25.031106+0500 | INFO | app.main:startup_event:314 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:21:25.031106+0500 | INFO | app.main:startup_event:319 | Ollama disabled, using rule-based extraction
+2026-08-01T12:21:26.785986+0500 | INFO | app.main:startup_event:324 | ✅ Loaded 9544 resumes
+2026-08-01T12:21:26.903795+0500 | INFO | app.main:shutdown_event:332 | Shutting down Resume Screener
+2026-08-01T12:21:44.064124+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:22:00.682598+0500 | INFO | app.main:startup_event:313 | Starting Resume Screener in development mode
+2026-08-01T12:22:00.682598+0500 | INFO | app.main:startup_event:314 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:22:00.682598+0500 | INFO | app.main:startup_event:319 | Ollama disabled, using rule-based extraction
+2026-08-01T12:22:02.329761+0500 | INFO | app.main:startup_event:324 | ✅ Loaded 9544 resumes
+2026-08-01T12:23:37.970196+0500 | ERROR | app.main:get_dataset_info:185 | Error getting dataset info: 'job_position_name'
+2026-08-01T12:23:41.652071+0500 | ERROR | app.main:get_job_positions:289 | Error getting job positions: 'job_position_name'
+2026-08-01T12:23:45.392442+0500 | ERROR | app.main:match_candidates:233 | Error matching candidates: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2026-08-01T12:25:18.388505+0500 | INFO | app.main:shutdown_event:332 | Shutting down Resume Screener
+2026-08-01T12:25:21.376470+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:25:38.435319+0500 | INFO | app.main:startup_event:313 | Starting Resume Screener in development mode
+2026-08-01T12:25:38.449964+0500 | INFO | app.main:startup_event:314 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:25:38.449964+0500 | INFO | app.main:startup_event:319 | Ollama disabled, using rule-based extraction
+2026-08-01T12:25:40.286840+0500 | INFO | app.main:startup_event:324 | ✅ Loaded 9544 resumes
+2026-08-01T12:28:00.084352+0500 | INFO | app.main:shutdown_event:332 | Shutting down Resume Screener
+2026-08-01T12:28:02.899617+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:28:28.426404+0500 | INFO | app.main:startup_event:313 | Starting Resume Screener in development mode
+2026-08-01T12:28:28.426404+0500 | INFO | app.main:startup_event:314 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:28:28.426404+0500 | INFO | app.main:startup_event:319 | Ollama disabled, using rule-based extraction
+2026-08-01T12:28:29.157441+0500 | INFO | app.main:startup_event:324 | ✅ Loaded 9544 resumes
+2026-08-01T12:29:45.208018+0500 | INFO | app.main:shutdown_event:332 | Shutting down Resume Screener
+2026-08-01T12:30:02.327500+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:30:19.160090+0500 | INFO | app.main:startup_event:313 | Starting Resume Screener in development mode
+2026-08-01T12:30:19.160090+0500 | INFO | app.main:startup_event:314 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:30:19.160090+0500 | INFO | app.main:startup_event:319 | Ollama disabled, using rule-based extraction
+2026-08-01T12:30:19.879934+0500 | INFO | app.main:startup_event:324 | ✅ Loaded 9544 resumes
+2026-08-01T12:30:40.546222+0500 | ERROR | app.main:get_dataset_info:185 | Error getting dataset info: 'job_position_name'
+2026-08-01T12:30:43.217119+0500 | ERROR | app.main:get_job_positions:289 | Error getting job positions: 'job_position_name'
+2026-08-01T12:30:45.925459+0500 | ERROR | app.main:match_candidates:233 | Error matching candidates: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2026-08-01T12:33:58.596377+0500 | ERROR | app.main:get_dataset_info:185 | Error getting dataset info: 'job_position_name'
+2026-08-01T12:34:01.263757+0500 | ERROR | app.main:get_job_positions:289 | Error getting job positions: 'job_position_name'
+2026-08-01T12:34:04.301470+0500 | ERROR | app.main:match_candidates:233 | Error matching candidates: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2026-08-01T12:34:49.164563+0500 | INFO | app.main:shutdown_event:332 | Shutting down Resume Screener
+2026-08-01T12:34:51.892552+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:35:15.309998+0500 | INFO | app.main:startup_event:313 | Starting Resume Screener in development mode
+2026-08-01T12:35:15.309998+0500 | INFO | app.main:startup_event:314 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:35:15.309998+0500 | INFO | app.main:startup_event:319 | Ollama disabled, using rule-based extraction
+2026-08-01T12:35:17.000359+0500 | INFO | app.main:startup_event:324 | ✅ Loaded 9544 resumes
+2026-08-01T12:35:54.763082+0500 | INFO | app.main:shutdown_event:332 | Shutting down Resume Screener
+2026-08-01T12:35:57.292690+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:36:18.175439+0500 | INFO | app.main:startup_event:313 | Starting Resume Screener in development mode
+2026-08-01T12:36:18.175439+0500 | INFO | app.main:startup_event:314 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:36:18.175439+0500 | INFO | app.main:startup_event:319 | Ollama disabled, using rule-based extraction
+2026-08-01T12:36:19.772638+0500 | INFO | app.main:startup_event:324 | ✅ Loaded 9544 resumes
+2026-08-01T12:36:19.891000+0500 | INFO | app.main:shutdown_event:332 | Shutting down Resume Screener
+2026-08-01T12:36:22.453180+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:36:43.003979+0500 | INFO | app.main:startup_event:313 | Starting Resume Screener in development mode
+2026-08-01T12:36:43.003979+0500 | INFO | app.main:startup_event:314 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:36:43.003979+0500 | INFO | app.main:startup_event:319 | Ollama disabled, using rule-based extraction
+2026-08-01T12:36:43.809781+0500 | INFO | app.main:startup_event:324 | ✅ Loaded 9544 resumes
+2026-08-01T12:40:02.530773+0500 | INFO | app.main:shutdown_event:332 | Shutting down Resume Screener
+2026-08-01T12:40:05.078211+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:40:26.916622+0500 | INFO | app.main:startup_event:313 | Starting Resume Screener in development mode
+2026-08-01T12:40:26.916622+0500 | INFO | app.main:startup_event:314 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:40:26.918630+0500 | INFO | app.main:startup_event:319 | Ollama disabled, using rule-based extraction
+2026-08-01T12:40:27.622795+0500 | INFO | app.main:startup_event:324 | ✅ Loaded 9544 resumes
+2026-08-01T12:40:44.874495+0500 | INFO | app.main:shutdown_event:332 | Shutting down Resume Screener
+2026-08-01T12:40:47.922505+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:41:11.740828+0500 | INFO | app.main:startup_event:313 | Starting Resume Screener in development mode
+2026-08-01T12:41:11.740828+0500 | INFO | app.main:startup_event:314 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:41:11.740828+0500 | INFO | app.main:startup_event:319 | Ollama disabled, using rule-based extraction
+2026-08-01T12:41:13.237507+0500 | INFO | app.main:startup_event:324 | ✅ Loaded 9544 resumes
+2026-08-01T12:41:13.340287+0500 | INFO | app.main:shutdown_event:332 | Shutting down Resume Screener
+2026-08-01T12:41:15.828917+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:41:37.166308+0500 | INFO | app.main:startup_event:313 | Starting Resume Screener in development mode
+2026-08-01T12:41:37.168320+0500 | INFO | app.main:startup_event:314 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:41:37.200500+0500 | INFO | app.main:startup_event:319 | Ollama disabled, using rule-based extraction
+2026-08-01T12:41:38.035326+0500 | INFO | app.main:startup_event:324 | ✅ Loaded 9544 resumes
+2026-08-01T12:41:49.217778+0500 | INFO | app.main:shutdown_event:332 | Shutting down Resume Screener
+2026-08-01T12:41:51.994633+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:42:14.366731+0500 | INFO | app.main:startup_event:313 | Starting Resume Screener in development mode
+2026-08-01T12:42:14.366731+0500 | INFO | app.main:startup_event:314 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:42:14.366731+0500 | INFO | app.main:startup_event:319 | Ollama disabled, using rule-based extraction
+2026-08-01T12:42:15.952797+0500 | INFO | app.main:startup_event:324 | ✅ Loaded 9544 resumes
+2026-08-01T12:54:17.068882+0500 | INFO | app.main:shutdown_event:332 | Shutting down Resume Screener
+2026-08-01T12:54:20.548346+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:54:41.191952+0500 | INFO | app.main:startup_event:294 | Starting Resume Screener in development mode
+2026-08-01T12:54:41.191952+0500 | INFO | app.main:startup_event:295 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:54:41.191952+0500 | INFO | app.main:startup_event:300 | Ollama disabled, using rule-based extraction
+2026-08-01T12:54:41.876650+0500 | INFO | app.main:startup_event:304 | ✅ Loaded 9544 resumes
+2026-08-01T12:54:42.001041+0500 | INFO | app.main:shutdown_event:312 | Shutting down Resume Screener
+2026-08-01T12:54:44.170506+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:57:13.186306+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T12:57:29.926992+0500 | INFO | app.main:startup_event:294 | Starting Resume Screener in development mode
+2026-08-01T12:57:29.926992+0500 | INFO | app.main:startup_event:295 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T12:57:29.926992+0500 | INFO | app.main:startup_event:298 | Ollama enabled with model: llama2
+2026-08-01T12:57:30.650050+0500 | INFO | app.main:startup_event:304 | ✅ Loaded 9544 resumes
+2026-08-01T13:13:32.164015+0500 | INFO | app.main:shutdown_event:312 | Shutting down Resume Screener
+2026-08-01T13:13:36.593474+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T13:14:07.576505+0500 | INFO | app.main:startup_event:294 | Starting Resume Screener in development mode
+2026-08-01T13:14:07.576505+0500 | INFO | app.main:startup_event:295 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T13:14:07.576505+0500 | INFO | app.main:startup_event:298 | Ollama enabled with model: llama2
+2026-08-01T13:14:08.300588+0500 | INFO | app.main:startup_event:304 | ✅ Loaded 9544 resumes
+2026-08-01T13:57:35.455022+0500 | INFO | app.main:shutdown_event:312 | Shutting down Resume Screener
+2026-08-01T13:59:15.738618+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T13:59:45.628360+0500 | INFO | app.main:startup_event:294 | Starting Resume Screener in development mode
+2026-08-01T13:59:45.628360+0500 | INFO | app.main:startup_event:295 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T13:59:45.628360+0500 | INFO | app.main:startup_event:300 | Ollama disabled, using rule-based extraction
+2026-08-01T13:59:46.362556+0500 | INFO | app.main:startup_event:304 | ✅ Loaded 9544 resumes
+2026-08-01T15:05:06.718593+0500 | INFO | app.main:upload_pdf:88 | Processing PDF: updated cv.pdf (39589 bytes)
+2026-08-01T15:05:06.718593+0500 | INFO | app.services.pdf_extractor:extract:83 | Extracting text from C:\Users\USMANA~1\AppData\Local\Temp\tmpcr_5ilx8.pdf
+2026-08-01T15:05:07.014915+0500 | INFO | app.services.pdf_extractor:extract:92 | Successfully extracted with pdfplumber
+2026-08-01T15:10:04.532679+0500 | INFO | app.main:shutdown_event:312 | Shutting down Resume Screener
+2026-08-01T15:10:07.317305+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T15:10:30.460852+0500 | INFO | app.main:startup_event:294 | Starting Resume Screener in development mode
+2026-08-01T15:10:30.461155+0500 | INFO | app.main:startup_event:295 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T15:10:30.461646+0500 | INFO | app.main:startup_event:300 | Ollama disabled, using rule-based extraction
+2026-08-01T15:10:31.147627+0500 | INFO | app.main:startup_event:304 | ✅ Loaded 9544 resumes
+2026-08-01T15:10:32.340227+0500 | INFO | app.main:shutdown_event:312 | Shutting down Resume Screener
+2026-08-01T15:10:34.373324+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T15:10:54.612714+0500 | INFO | app.main:startup_event:294 | Starting Resume Screener in development mode
+2026-08-01T15:10:54.612714+0500 | INFO | app.main:startup_event:295 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T15:10:54.612714+0500 | INFO | app.main:startup_event:300 | Ollama disabled, using rule-based extraction
+2026-08-01T15:10:55.795059+0500 | INFO | app.main:startup_event:304 | ✅ Loaded 9544 resumes
+2026-08-01T15:10:55.906337+0500 | INFO | app.main:shutdown_event:312 | Shutting down Resume Screener
+2026-08-01T15:10:58.380838+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T15:11:19.232962+0500 | INFO | app.main:startup_event:294 | Starting Resume Screener in development mode
+2026-08-01T15:11:19.232962+0500 | INFO | app.main:startup_event:295 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T15:11:19.232962+0500 | INFO | app.main:startup_event:300 | Ollama disabled, using rule-based extraction
+2026-08-01T15:11:20.372888+0500 | INFO | app.main:startup_event:304 | ✅ Loaded 9544 resumes
+2026-08-01T15:11:20.485762+0500 | INFO | app.main:shutdown_event:312 | Shutting down Resume Screener
+2026-08-01T15:11:22.762342+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T15:11:41.535132+0500 | INFO | app.main:startup_event:294 | Starting Resume Screener in development mode
+2026-08-01T15:11:41.535132+0500 | INFO | app.main:startup_event:295 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T15:11:41.535132+0500 | INFO | app.main:startup_event:300 | Ollama disabled, using rule-based extraction
+2026-08-01T15:11:42.164061+0500 | INFO | app.main:startup_event:304 | ✅ Loaded 9544 resumes
+2026-08-01T15:13:26.169146+0500 | INFO | app.main:shutdown_event:312 | Shutting down Resume Screener
+2026-08-01T15:13:30.319153+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T15:13:55.412587+0500 | INFO | app.main:startup_event:294 | Starting Resume Screener in development mode
+2026-08-01T15:13:55.413095+0500 | INFO | app.main:startup_event:295 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T15:13:55.413095+0500 | INFO | app.main:startup_event:300 | Ollama disabled, using rule-based extraction
+2026-08-01T15:13:56.198052+0500 | INFO | app.main:startup_event:304 | ✅ Loaded 9544 resumes
+2026-08-01T15:13:56.305008+0500 | INFO | app.main:shutdown_event:312 | Shutting down Resume Screener
+2026-08-01T15:13:58.070552+0500 | INFO | app.core.logging_config:setup_logging:63 | Logging configured for development environment
+2026-08-01T15:14:14.058987+0500 | INFO | app.main:startup_event:294 | Starting Resume Screener in development mode
+2026-08-01T15:14:14.058987+0500 | INFO | app.main:startup_event:295 | Database: sqlite:///./data/resume_screener.db
+2026-08-01T15:14:14.058987+0500 | INFO | app.main:startup_event:300 | Ollama disabled, using rule-based extraction
+2026-08-01T15:14:14.760690+0500 | INFO | app.main:startup_event:304 | ✅ Loaded 9544 resumes
+2026-08-01T15:16:14.509920+0500 | INFO | app.main:upload_pdf:88 | Processing PDF: resume.pdf (39589 bytes)
+2026-08-01T15:16:14.509920+0500 | INFO | app.services.pdf_extractor:extract:83 | Extracting text from C:\Users\USMANA~1\AppData\Local\Temp\tmp2ob9qmn3.pdf
+2026-08-01T15:16:14.734180+0500 | INFO | app.services.pdf_extractor:extract:92 | Successfully extracted with pdfplumber
